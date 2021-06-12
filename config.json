@@ -13,14 +13,7 @@
         ]
       }
       ,
-         {
-        "title":"livve",
-        "provider":"stream",
-        "arguments":[
-          "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
-        ]
-      },
-      
+          
       {
         "title":"مباريات الغد",
         "provider":"webview",
