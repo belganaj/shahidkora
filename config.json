@@ -13,6 +13,15 @@
         ]
       }
       ,
+           
+      {
+        "title":"مباريات اليوم",
+        "provider":"webview",
+        "arguments":[
+          "http://yallalive.men/live/livetoday.html"
+        ]
+      }
+      ,
           
       {
         "title":"مباريات الغد",
