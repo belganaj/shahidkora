@@ -27,14 +27,14 @@
         "title":"مباريات الغد",
         "provider":"webview",
         "arguments":[
-          "http://yallalive.men/live/tomorrow.html"
+          "http://yallalive.men/tomorrow"
         ]
       },
       {
         "title":"مباريات الامس",
         "provider":"webview",
         "arguments":[
-          "http://yallalive.men/live/yesterday.html"
+          "http://yallalive.men/yesterday"
         ]
       }
     ,
