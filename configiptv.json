@@ -51,7 +51,7 @@
         "title":"",
         "provider":"webview",
         "arguments":[
-          "http://yallalive.men/livetoday"
+          "http://yallalive.men/live/livetoday.html"
         ]
       }
     ]
