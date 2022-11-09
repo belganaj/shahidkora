@@ -7,8 +7,8 @@
       "updateURL": "https://raw.githubusercontent.com/belganaj/shahidkora/main/update.json22",
       "appsFlyer": "JAXadWtvfFPgLbgu6P47rH",
 	    
-      "BannerAd": "",
-      "InterstitialAd": "",
+      "BannerAd": "facebook",
+      "InterstitialAd": "facebook",
       "NativeAdna": "",
       
       "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
@@ -26,8 +26,8 @@
       "unity_banner": "Banner_Android",
       "unity_interstitial": "Interstitial_Android",
       
-      "BannerFb": "184375336153341_190642088859999",
-      "InterstitialFb": "184375336153341_237627014161506",
+      "BannerFb": "238657034304360_245117010325029",
+      "InterstitialFb": "238657034304360_242103337293063",
       "NativeFb": "",    
 	    
       "ImageBanner": false,
