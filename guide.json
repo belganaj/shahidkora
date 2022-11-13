@@ -8,7 +8,7 @@
       "appsFlyer": "JAXadWtvfFPgLbgu6P47rH",
 	    
       "BannerAd": "ironsource",
-      "InterstitialAd": "ironsource",
+      "InterstitialAd": "facebook",
       "NativeAdna": "admob",
       
       "BannerAdmob": "ca-app-pub-5834115213041883/4318059589",
@@ -26,8 +26,8 @@
       "unity_banner": "Banner_Android",
       "unity_interstitial": "Interstitial_Android",
       
-      "BannerFb": "238657034304360_245117010325029",
-      "InterstitialFb": "238657034304360_242103337293063",
+      "BannerFb": "238657034304360_537131441123583",
+      "InterstitialFb": "238657034304360_537132307790163",
       "NativeFb": "",    
 	    
       "ImageBanner": false,
