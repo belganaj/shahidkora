@@ -8,7 +8,7 @@
       "appsFlyer": "JAXadWtvfFPgLbgu6P47rH",
 	    
       "BannerAd": "facebook",
-      "InterstitialAd": "ironsource",
+      "InterstitialAd": "max",
       "NativeAdna": "admob",
       
       "BannerAdmob": "ca-app-pub-5834115213041883/4318059589",
@@ -16,7 +16,7 @@
       "NativeAdmob": "ca-app-pub-5834115213041883/2932825723",
       
       "maxBanner": "72858f2a67363caf",
-      "maxInterstitial": "3dbc7c84aff7d8e2",
+      "maxInterstitial": "84a905046efb53c6",
       "maxNative": "2fc441348a27d8e1",
       
       "ironsource_appKey": "101c2e211",
