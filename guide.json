@@ -7,13 +7,13 @@
       "updateURL": "https://raw.githubusercontent.com/belganaj/shahidkora/main/update.json22",
       "appsFlyer": "JAXadWtvfFPgLbgu6P47rH",
 	    
-      "BannerAd": "facebook",
-      "InterstitialAd": "facebook",
-      "NativeAdna": "",
+      "BannerAd": "ironsource",
+      "InterstitialAd": "ironsource",
+      "NativeAdna": "admob",
       
-      "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-      "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-      "NativeAdmob": "ca-app-pub-3940256099942544/1044960115",
+      "BannerAdmob": "ca-app-pub-5834115213041883/4318059589",
+      "InterstitialAdmob": "ca-app-pub-5834115213041883/5367417377",
+      "NativeAdmob": "ca-app-pub-5834115213041883/2932825723",
       
       "maxBanner": "72858f2a67363caf",
       "maxInterstitial": "3dbc7c84aff7d8e2",
