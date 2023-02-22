@@ -1,0 +1,38 @@
+{
+  "GuideData": {
+    "AdsController": {
+      
+      
+      "baseURL": "https://yallalive.men/",
+      "updateURL": "https://raw.githubusercontent.com/belganaj/shahidkora/main/update.json22",
+      "appsFlyer": "JAXadWtvfFPgLbgu6P47rH",
+	    
+      "BannerAd": "ironsource",
+      "InterstitialAd": "ironsource",
+      "NativeAdna": "",
+      
+      "BannerAdmob": "ca-app-pub-5834115213041883/4318059589",
+      "InterstitialAdmob": "ca-app-pub-5834115213041883/5367417377",
+      "NativeAdmob": "ca-app-pub-5834115213041883/2932825723",
+      
+      "maxBanner": "034a0e3e1cecc261",
+      "maxInterstitial": "84a905046efb53c6",
+      "maxNative": "",
+      
+      "ironsource_appKey": "101c2e211",
+      
+      "unity_game_id": "4368035",
+      "unity_test": true,
+      "unity_banner": "Banner_Android",
+      "unity_interstitial": "Interstitial_Android",
+      
+      "BannerFb": "238657034304360_537131441123583",
+      "InterstitialFb": "238657034304360_537132307790163",
+      "NativeFb": "",    
+	    
+      "ImageBanner": false,
+      "ImageBannerImg": "https://iili.io/s3IJHb.gif",
+      "ImageBannerURL": "https://www.google.ru"
+    }
+  }
+}
