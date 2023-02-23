@@ -3,7 +3,7 @@
 
     "activate_own_ads": "0",
     "open_app" : "open ads id",
-    "admob_appid" : "admob app id",
+    "admob_appid" : "ca-app-pub-3940256099942544~3347511713",
     "admob_bn": ["ca-app-pub-3940256099942544/6300978111"],
     "admob_n": ["admob native id"],
     "admob_pub": "admob publisher id",
@@ -78,7 +78,7 @@
       }
       ],
 
-      "privacy" : "privacy policy link for admob"
+      "privacy" : "https://pages.flycricket.io/world-cup-22/privacy.html"
      
     }
   }
