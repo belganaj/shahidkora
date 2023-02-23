@@ -22,15 +22,13 @@
       "apploving_inter" : "apploving interstitial id",
 
       
-      "ads" : [ "admob", "apploving", "admob","apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving"],
-
+    "ads" : [ "admob", "apploving", "own", "ironsource", "untiy"],
+      
+      "ads_array_reward" : [  "admob", "apploving"],
+      "banner_ads" : [ "admob", "apploving", "admob"],
 
       
-      "ads_array_reward" : [  "admob", "apploving", "unity","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving"],
-      "banner_ads" : [ "admob", "apploving", "admob", "apploving", "admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving"],
-
-      
-      "native_ads" : [ "apploving", "admob", "apploving", "admob","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving"],
+      "native_ads" : [ "admob", "admob", "apploving"],
       "test" : "false",
       "unity_app_id" : "unity app id",
 
