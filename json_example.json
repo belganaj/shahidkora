@@ -1,7 +1,7 @@
 {
     "config" : {
 
-    "activate_own_ads": "0",
+    "activate_own_ads": "1",
     "open_app" : "open ads id",
     "admob_appid" : "ca-app-pub-3940256099942544~3347511713",
     "admob_bn": ["ca-app-pub-3940256099942544/6300978111"],
@@ -36,7 +36,7 @@
       "unity_it_id" : "unity interstitial id",
       "unity_r_id" : "unity reward id",
 
-      "you" : 1,
+      "you" : 0,
 
       "owninter_array" : [  
         
