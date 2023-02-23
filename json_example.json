@@ -2,12 +2,12 @@
     "config" : {
 
     "activate_own_ads": "1",
-    "open_app" : "open ads id",
+    "open_app" : "ca-app-pub-3940256099942544/3419835294",
     "admob_appid" : "ca-app-pub-3940256099942544~3347511713",
     "admob_bn": ["ca-app-pub-3940256099942544/6300978111"],
-    "admob_n": ["admob native id"],
+    "admob_n": ["ca-app-pub-3940256099942544/2247696110"],
     "admob_pub": "admob publisher id",
-    "admob_r": ["admob reward id"],
+    "admob_r": ["ca-app-pub-3940256099942544/5224354917"],
     "admob_it": ["ca-app-pub-3940256099942544/1033173712"],
         
     "ironsrc_APP_KEY": "iron source app key",
