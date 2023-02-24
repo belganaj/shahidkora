@@ -22,13 +22,13 @@
       "apploving_inter" : "apploving interstitial id",
 
       
-    "ads" : [ "admob", "apploving", "own", "ironsource", "untiy"],
+    "ads" : [ "apploving", "apploving", "own", "ironsource", "untiy"],
       
-      "ads_array_reward" : [  "admob", "apploving"],
-      "banner_ads" : [ "admob", "apploving", "admob"],
+      "ads_array_reward" : [  "apploving", "apploving"],
+      "banner_ads" : [ "apploving", "apploving", "admob"],
 
       
-      "native_ads" : [ "admob", "admob", "apploving"],
+      "native_ads" : [ "apploving", "apploving", "apploving"],
       "test" : "false",
       "unity_app_id" : "unity app id",
 
